@@ -16,8 +16,6 @@ const Doctorlist = ({ doctor }) => {
   const handleCloseModal = () => setShowModal(false);
   const handleShowModal = () => setShowModal(true);
 
-  
-
   return (
     <div>
       
